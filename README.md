@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @shbhm00
+- 👋 Hi, I’m Shubham Mishra
 - 👀 I’m interested in web development and ML
-- 🌱 I’m currently learning ReactJs
+- 🌱 I’m currently learning " ReactJs "
 - 💞️ I’m looking to collaborate on Web development and machine learning project
 - 📫 Just ping me on shbhm00@gmail.com
 
