@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shubham Mishra
-- 👀 I’m interested in web development and ML
-- 🌱 I’m currently learning " ReactJs "
-- 💞️ I’m looking to collaborate on Web development and machine learning project
+- 👀 I’m interested in Hybrid App Development
+- 🌱 I’m currently learning "React Native"
+- 💞️ I’m looking to collaborate on Project based on Android and iOS development
 - 📫 Just ping me on shbhm00@gmail.com
 
 <!---
