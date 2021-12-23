@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shubham Mishra
 - 👀 I’m interested in Hybrid App Development
-- 🌱 I’m currently learning "React Native"
+- 🌱 I’m currently working as  "React Native" developer
 - 💞️ I’m looking to collaborate on Project based on Android and iOS development
 - 📫 Just ping me on shbhm00@gmail.com
 
